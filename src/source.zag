@@ -1,0 +1,2 @@
+return 1;
+// const xd = "hello"; var num = 12; fn main() { num = num + 1; print(xd, num); }
